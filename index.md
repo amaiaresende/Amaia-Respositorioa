@@ -1,3 +1,3 @@
-# Bienvenida a mi blog
+# Ongietorri denoi!
 
-Me alegro de que estés aquí. Pienso hablar sobre ...
+Hemen zure lekua aurkituko duzu. Euskara eta gazteon kulturaren inguruan hitz egingo dugu.
