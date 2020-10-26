@@ -1,3 +1,3 @@
-# Bienvenida a mi blog
+# Kaixo ongi etorri!
 
-Me alegro de que estés aquí. Pienso hablar sobre ...
+Espero dut bilatzen duzuna hemen aurkitzea
