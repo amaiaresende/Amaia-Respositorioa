@@ -20,4 +20,6 @@ Los mapas de sitios pueden caber en una página de papel, en estos casos son muy
 
 Sin embargo, los flujos de tareas son diagramas que identifican la ruta del usuario, y pueden utilizarse en combinación con los *Site Maps*. Normalmente identifican procesos más complejos y tiene más en cuenta la experiencia del usuario en cuanto a conocer sus objetivos. 
 
-![sitemap](/)
+![sitemap](/C:\Users\Amaia\Desktop\UNI\Web\GITHUB\github-pages\_posts\sitemap.png) 
+
+Esto sería una combinación entre el mapa del sitio y el flujo de tareas de una página de 'Inicio de sesión' de una web o aplicación. 
