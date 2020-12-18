@@ -1,0 +1,1 @@
+Ongi etorri! Webak modu askotan sor daitezke, baina badaude tresna batzuk ahalik eta osatuen egoteko. Hemen horietako batzuk erakutsiko dizkizugu!
