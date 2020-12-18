@@ -1,4 +1,8 @@
-# Investigación de usuarios
+---
+title: "Investigación del Usuario"
+date: 2020-10-13
+---
+
 
 La **Experiencia del Usuario** (UX) es imprescindible, Agile es una de las estrategias más comunes en la industria. 
 Los equipos ágiles se adaptan rapidamente al cambio en las preferencias del usuario, por ello es importante que haya puntos en común entre estas dos herramientas para que funcionen juntas.
@@ -36,7 +40,3 @@ Sin embargo, si se trabaja en espacios diferentes o incluso telemáticamente, se
 ![UX imagen](/C:\Users\Amaia\Desktop\UNI\Web\GITHUB\github-pages) 
 
 Este es el proceso que sigue la investigación, es continuo, no deja de renovarse y nunca para.
-
-
-
-

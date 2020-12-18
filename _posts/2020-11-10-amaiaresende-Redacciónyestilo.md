@@ -1,6 +1,7 @@
-
-# REDACCIÓN Y ESTILO
-
+---
+Title: "Redacción y estilo en la web"
+date: 2020-11-10
+---
 
 #### **Una nueva forma de leer**
 

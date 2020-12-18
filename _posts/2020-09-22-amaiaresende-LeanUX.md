@@ -1,4 +1,7 @@
-# LEAN UX
+---
+title: "Lean UX"
+date: 2020-09-22
+---
 
 #### **Qué es**
 Es un método para mejorar la experiencia del usuario en la web. Trata sobre el diseño en la web y cómo está enfocado en la página para que pueda ser lo más atractiva y usable posible.

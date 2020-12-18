@@ -1,4 +1,13 @@
-# WIREFRAMES
+---
+title: "Wireframe"
+date: 2020-11-24
+---
+
+#### **¿Qué es?**
+
+Es un esquema de páginas, una guía visual, un esqueleto de una web. 
+Su objetivo es conseguir **funcionalidad**,**comportamiento** y **jerarquía de contenidos**.
+Es la relación entre la estructura conceptual y la superficie, lo que se va a ver.
 
 ####  **Elementos**
 
